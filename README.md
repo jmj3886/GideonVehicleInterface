@@ -1,5 +1,5 @@
 # GideonVehicleInterface
-The GUI interface to the GideonVehicleController.
+The GUI interface to the [GideonVehicleController](https://github.com/jmj3886/GideonVehicleController).
 
 ## Features
 #### Vehicle Diagnostic Features
